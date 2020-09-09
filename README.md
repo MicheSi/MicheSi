@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/MicheSi/MicheSi/raw/master/header.png)(https://michellesirimanivong.com)
+[![Header](https://github.com/MicheSi/MicheSi/raw/master/header.png)](https://michellesirimanivong.com)
 
 # Get to Know Me!
 
