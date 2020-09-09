@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Header](header.png)](https://michellesirimanivong.com)
 
 # Get to Know Me!
 
